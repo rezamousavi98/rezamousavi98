@@ -8,7 +8,7 @@ Front-End Developer | Angular Specialist | UI/UX Enthusiast<br>I am a front-end 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammadreza-mousavi) 
 
-# GitHub Stats
+## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=rezamousavi98&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rezamousavi98&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rezamousavi98&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
